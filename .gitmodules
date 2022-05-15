@@ -1,0 +1,3 @@
+[submodule "packages/containers"]
+	path = packages/containers
+	url = https://github.com/sumofat/OdinContainers.git
